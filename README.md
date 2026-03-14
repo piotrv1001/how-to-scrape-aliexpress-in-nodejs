@@ -2,6 +2,8 @@
 
 This example shows how to scrape AliExpress product listings in Node.js using the [AliExpress Listings Scraper](https://apify.com/piotrv1001/aliexpress-listings-scraper) actor on Apify — no browser automation or HTML parsing required.
 
+![AliExpress scraper results](aliexpress_results.png)
+
 ## What this example does
 
 - Calls the AliExpress Listings Scraper actor via the Apify API client
