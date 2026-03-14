@@ -109,6 +109,10 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each produc
 
 Run it directly from the Apify Console with no code required, or integrate it into your own workflow using the API.
 
+## Related resources
+
+- [How to Scrape AliExpress Product Listings](https://www.falconscrape.com/blog/how-to-scrape-aliexpress-product-listings) — in-depth blog post covering AliExpress scraping strategies and use cases
+
 ## License
 
 MIT
