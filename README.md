@@ -112,6 +112,7 @@ Run it directly from the Apify Console with no code required, or integrate it in
 ## Related resources
 
 - [How to Scrape AliExpress Product Listings](https://www.falconscrape.com/blog/how-to-scrape-aliexpress-product-listings) — in-depth blog post covering AliExpress scraping strategies and use cases
+- [How to Scrape AliExpress Listings with Apify](https://www.youtube.com/watch?v=ugY1h9tg_jw&pp=0gcJCcUKAYcqIYzv) — video tutorial on scraping AliExpress listings using Apify
 
 ## License
 
